@@ -1,9 +1,5 @@
 # Flower-Sale-Data-Dashboard
 
-แน่นอนครับ จากภาพ Dashboard ที่ให้มา สามารถเขียนไฟล์ README คร่าวๆ ได้ดังนี้ครับ
-
----
-
 # Flower Sales Dashboard
 
 ## 1. ภาพรวม (Overview)
